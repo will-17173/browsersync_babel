@@ -1,8 +1,7 @@
-class Form {
-	constructor(){
-		this.log()
-	}
-	log(){
-		console.log(3)
-	}
-}
+var b = 5;
+const a = b;
+console.log(a)
+b = 10;
+console.log(a)
+
+// export default Form;

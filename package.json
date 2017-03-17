@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "babel-watch": "babel src/app.js -o src/app.dist.js -w",
+    "watch": "babel src/app.js -o src/app.dist.js -w",
     "build": "babel src/app.js -o dist/app.js"
   },
   "keywords": [],

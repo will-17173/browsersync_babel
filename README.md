@@ -1,6 +1,6 @@
 # browsersync_babel
 ## development
-#### run `npm start && npm run babel-watch`
+#### run `npm start && npm run watch`
 
 ## publish
 #### run `SET BABEL_ENV=production && npm run build`
